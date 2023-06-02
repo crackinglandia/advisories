@@ -1,6 +1,6 @@
 # Advisories
 
-This repository contains the advisories for vulnerabilities found by me on different softwares alone or in collaboration with other people.
+This repository contains the advisories for vulnerabilities found by me alone or in collaboration with other people on different softwares.
 
  - [MayGion IP Cameras multiple vulnerabilities](https://www.coresecurity.com/core-labs/advisories/maygion-ip-cameras-multiple-vulnerabilities)
  - [Zavio IP Cameras multiple vulnerabilities](https://www.coresecurity.com/core-labs/advisories/zavio-ip-cameras-multiple-vulnerabilities)
